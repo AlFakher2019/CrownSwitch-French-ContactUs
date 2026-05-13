@@ -2071,7 +2071,14 @@ em {
 
 
 .zf-name.zf-namelarge + .zfgrid_Wrapper {
-  margin-top: 16px !important;     
+  margin-top: 32px !important;
+}
+
+.zf-privacy-note .zf-privacy-text {
+  font-size: 13px;
+  line-height: 1.5;
+  color: #555;
+  margin: 0;
 }
 
 @media (max-width: 768px) {
